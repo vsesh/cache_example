@@ -1,0 +1,6 @@
+
+
+
+
+# Dev
+https://www.chromium.org/blink/serviceworker/service-worker-faq

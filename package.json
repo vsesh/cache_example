@@ -1,0 +1,25 @@
+{
+  "name": "cache_example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "serve-static": "^1.13.2",
+    "supervisor": "^0.12.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsesh/cache_example.git"
+  },
+  "author": "vsesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsesh/cache_example/issues"
+  },
+  "homepage": "https://github.com/vsesh/cache_example#readme",
+  "scripts": {
+    "dev": "npx supervisor index.js"
+  }
+}
