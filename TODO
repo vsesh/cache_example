@@ -1,9 +1,0 @@
-- Почему не работает Cache-Control под https? (Косяк chrome под localhost?)
-
-- Кто сильнее Last-Modify или Etag?
-
-- Насколько кэшируются данные в serviceworker.cache?
-
-
-https://stackoverflow.com/questions/50221399/http-cache-control-header-works-only-on-localhost
-https://www.chromium.org/blink/serviceworker/service-worker-faq 
